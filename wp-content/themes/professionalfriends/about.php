@@ -7,6 +7,7 @@
  */
 get_header();
 ?>
+
 <div class="full-contenar">
 <div class="about" id="about-blog">
 			<div class="about-section">
